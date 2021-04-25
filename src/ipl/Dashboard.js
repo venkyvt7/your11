@@ -14,7 +14,7 @@ __v: 5
  
     const[Dashboardata,setDashboardata]=useState(initailData);
     const userName=props.userName;
-    console.log(props);
+    // console.log(props);
     useEffect(() => {
       
      axios(`https://hidden-inlet-19769.herokuapp.com/Dashboard/${userName}`)
@@ -33,7 +33,7 @@ __v: 5
     //     fetchTodos();
     // }, []);
 
-    console.log(Dashboardata);
+    // console.log(Dashboardata);
    
     return (
         <div>
