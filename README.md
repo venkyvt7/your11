@@ -1,3 +1,48 @@
+# Your11 
+
+
+
+Your 11 is a full stack application which is inspired by Dream 11. 
+
+## Features
+
+- registeration and login dashboard for user 
+- select your team according to given points
+- watch live points of your created team  (3ms per ball)
+- submit your points in dashboard 
+- view your previous points 
+
+
+
+
+
+
+
+## Tech
+
+Your11  uses a number of open source projects to work properly:
+
+- [react. js] - Used as an front end library
+- [node. js  ] - evented I/O for the backend
+- [Express .js ] - fast node.js network app framework 
+- [Mongo DB cloud atlas] - mongo db is used for storing information in databses
+- [Heroku ]- Used for deploying the web app.
+- [Github] - for public repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
