@@ -63,7 +63,7 @@ async function LiveDashboard()
             
              if(x1.wicket!=undefined)
              { 
-                console.log(x1)
+                // console.log(x1)
                 var obj = myteam1.find(obj => obj.name ==x1.bowler);
                 if(obj!=undefined)
                 {
@@ -205,15 +205,15 @@ async function LiveDashboard()
     }
 const match1=`${data.info.teams[0]} vs ${data.info.teams[1]}`;
  const userName1=props.userName;
- console.log(props);
+//  console.log(props);
  
  function submitthis(e){
 
 
     e.preventDefault();
-    console.log(2332332);
+    // console.log(2332332);
 
-  console.log(userName1);
+  // console.log(userName1);
     fetch(`https://hidden-inlet-19769.herokuapp.com/Dash`, {
          method:'POST',
          headers:{
