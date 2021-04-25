@@ -3,7 +3,7 @@ const cors = require("cors");
 const mongoose = require("mongoose");
 const app = express();
 const port = process.env.PORT || 3000;
-const mongoString = "mongodb+srv://venkatesh:venkatesh@cluster0.8ttog.mongodb.net/newonee?retryWrites=true&w=majority"
+const mongoString = "mongodb+srv://venkatesh:<password>@cluster0.8ttog.mongodb.net/newonee?retryWrites=true&w=majority"
 
 const ObjectId = require("mongoose").Types.ObjectId;
 
