@@ -15,9 +15,22 @@ Your 11 is a full stack application  build and deployed, which is inspired by Dr
 
 
 
+## Views
 
-
-
+# Home page
+![home](/Images/home.png)
+# Register 
+![register](/Images/register.png)
+# Login
+![login](Images/login.png)
+# About Game
+![aboutgame](/Images/aboutgame.png)
+# Select team
+![selectteam](/Images/selectteam.png)
+# Livematch
+![livematch](/Images/livematch.png)
+# User Dashboard  
+![dasboard](/Images/dashboard.png)
 
 ## Tech
 
