@@ -1,0 +1,30 @@
+.navv{
+    color: rgb(255, 127, 127);
+    /* align-items:left; */
+  
+    background-color: aquamarine;
+    text-decoration: none;
+    text-align: center;
+}
+.linkw{
+    font-size: 200%;
+    text-align: center;
+    /* margin: auto; */
+      padding-left: 10%;
+      padding-right: 10%;
+    color:red;
+    text-decoration: none;
+}
+
+.welcometo{
+ font-size: 300%;
+  text-align: center;
+  color:red;
+}
+
+.imgipl{
+
+  
+text-align: center;
+  /* margin-right:50%; */
+}

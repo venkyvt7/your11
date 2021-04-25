@@ -1,0 +1,38 @@
+
+  .table3 {
+    font-size: large;
+    font-family: arial, sans-serif;
+    /* border-collapse: collapse; */
+    padding-left: 20%;
+    width: 80%;
+    color: rgb(255, 0, 0);
+    ;
+  }
+
+   
+  .td3 {
+    border: 1px solid #dddddd;
+    text-align: center;
+    background-color: rgba(126, 245, 47, 0.795);
+    /* padding: 8px; */
+  }
+
+  .th3{
+    border: 1px solid #dddddd;
+    text-align: center;
+    background-color: rgba(145, 238, 102, 0.959);
+    /* padding: 8px; */
+  }
+  .head3{
+    color: rgb(228, 13, 13);
+    text-align: center;
+  }
+
+  .button3{
+
+    text-align: center;
+    margin-top: 2%;
+    padding:1%;
+    margin-left: 45%;
+    background-color: rgb(255, 153, 0);
+  }

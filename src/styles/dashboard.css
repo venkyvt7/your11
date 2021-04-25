@@ -1,0 +1,30 @@
+.table {
+    font-size: large;
+    font-family: arial, sans-serif;
+    /* border-collapse: collapse; */
+    padding-left: 20%;
+    width: 80%;
+    color: rgb(255, 0, 0);
+    ;
+  }
+  
+  .td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    background-color: rgba(150, 236, 11, 0.356);
+    /* padding: 8px; */
+  }
+
+  .th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    background-color: rgba(102, 195, 238, 0.959);
+    /* padding: 8px; */
+  }
+
+  .DashboardS{
+        color: rgb(255, 0, 0);
+        text-align: center;
+        margin: 2%;
+
+  }

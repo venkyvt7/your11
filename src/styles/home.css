@@ -1,0 +1,20 @@
+
+.Nav{
+ color: rgb(255, 127, 127);
+ align-items:left;
+ justify-content: end;
+ background-color: aquamarine;
+ text-decoration: none;
+ text-align: center;
+
+}
+
+ .link{
+    font-size: 200%;
+    /* text-align: center; */
+    margin: auto;
+      padding-left: 10%;
+      /* padding-right: 10%; */
+    color:red;
+    text-decoration: none;
+}

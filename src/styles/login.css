@@ -1,0 +1,28 @@
+.form1{
+     /* font-size: 200%; */
+    font-weight: 400;
+margin:10%;
+background-color: beige;
+vertical-align: middle;
+padding: 1%;
+
+text-align: center;
+}
+
+
+
+.det{
+    font-size: 90%;
+
+}
+
+.login11{
+    text-align: center;
+    color: brown;
+}
+
+#det1{
+    background-color: rgb(221, 252, 241);
+   margin-top: 10px;
+    border-radius: 10px;
+}
