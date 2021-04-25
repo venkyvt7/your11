@@ -56,7 +56,7 @@ function Register() {
           {/* <h1>   Welcome To YOur11.com </h1>  */}
 
           <nav class="navv"> 
-        < Link class="linkw" to="/login">         {(logins)?(<span>LOGIN</span>): (<span>YOU ARE Logined {userName} </span>)}       </Link>
+        < Link class="linkw" to="/login">         {(logins)?(<span>LOGIN</span>): (<span>YOU ARE Logined in {userName} </span>)}       </Link>
         <Link class="linkw" to="/register"> Register </Link>
         </nav> 
         </div>

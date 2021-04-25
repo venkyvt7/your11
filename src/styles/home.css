@@ -18,3 +18,17 @@
     color:red;
     text-decoration: none;
 }
+
+.headmain{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color:red;
+}
+.lili{
+  font-size: 200%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color:red;
+  text-decoration: none;
+  list-style-type: none;
+}
