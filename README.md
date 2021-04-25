@@ -2,8 +2,9 @@
 
 
 
-Your 11 is a full stack application which is inspired by Dream 11. 
+Your 11 is a full stack application  build and deployed, which is inspired by Dream 11. 
 
+##  website ->  [link](https://mighty-wildwood-01254.herokuapp.com/)
 ## Features
 
 - registeration and login dashboard for user 
@@ -43,7 +44,6 @@ Your11  uses a number of open source projects to work properly:
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
